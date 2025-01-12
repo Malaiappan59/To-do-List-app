@@ -1,5 +1,5 @@
 # 🌟 To-Do List App 💡 😎
-Technologies used are HTML , CSS, Javascript
+Technologies used are [HTML] , {CSS} and (Javascript)
 
 # Installation
 Clone the repository:
